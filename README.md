@@ -30,21 +30,6 @@ The goal of this project is to:
   - Clustering: `sklearn`, `scipy`
   - Dimensionality Reduction: `PCA`, `TSNE`
 
-## Usage
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/rosareyes/AA24-100434072-P2.git
-    cd AA24-100434072-P2
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the notebook in Jupyter or Google Colab:
-    ```bash
-    jupyter notebook AA24_100434072_P2.ipynb
-    ```
-
 ## Dataset Information
 The dataset includes the following columns:
 - **Temperature**: Surface temperature of the star.
